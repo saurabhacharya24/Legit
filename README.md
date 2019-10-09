@@ -1,4 +1,4 @@
-# Legit - localized version control (Part of coursework of COMP2041, UNSW)
+# Legit - localized version control (Part of coursework for COMP2041, UNSW)
 
 Here's what you can do with legit:
 
